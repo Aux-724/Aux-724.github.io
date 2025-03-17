@@ -11,19 +11,19 @@ Welcome to my personal academic website. I am currently pursuing a Master of Phi
 
 ## Research Interests
 ------
-- Dynamic Programming & Reinforcement Learning
-- Combinatorial Optimization
 - Graph Neural Networks
 - Learning to Optimize
+- Dynamic Programming & Reinforcement Learning
+
 
 ## Education
 ------
 - **MPhil in Data Science**, The Chinese University of Hong Kong, Shenzhen (Expected 2026)
-- **BSc with Honor in Applied Psychology**, The Chinese University of Hong Kong, Shenzhen
+- **BSc in Applied Psychology**, The Chinese University of Hong Kong, Shenzhen (2024)
 
 ## Skills
 ------
-- **Programming**: Python, R, MATLAB
+- **Programming**: Python, R, MATLAB, SPSS
 - **Tools**: CVXPY, Gurobi
 
 ## Contact

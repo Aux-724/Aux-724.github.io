@@ -10,9 +10,7 @@ author_profile: true
 My research focuses on the intersection of optimization methods and machine learning, with a particular emphasis on:
 
 - **Graph Neural Networks**: Exploring the capabilities of GNNs for solving complex optimization problems
-- **Learning to Optimize**: Developing machine learning approaches to improve optimization algorithms
-- **Dynamic Programming & Reinforcement Learning**: Applying RL techniques to sequential decision-making problems
-- **Combinatorial Optimization**: Working on efficient algorithms for discrete optimization problems
+- **Learning to Optimize**: Developing machine learning approaches to improve optimization problem solving
 
 ## Current Projects
 
