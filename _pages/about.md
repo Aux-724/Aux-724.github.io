@@ -11,8 +11,9 @@ Welcome to my personal academic website. I am currently pursuing a Master of Phi
 
 ## Research Interests
 ------
-- Dynamic Programming & Reinforcement Learning
 - Learning to Optimize
+- Dynamic Programming & Reinforcement Learning
+
 
 ## Education
 ------
