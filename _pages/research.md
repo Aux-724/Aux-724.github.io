@@ -10,7 +10,7 @@ author_profile: true
 My research focuses on optimization methods and machine learning, with a particular emphasis on:
 
 - **Learning to Optimize**: Developing machine learning approaches to improve optimization problem solving
-- **Dynamic Programming & Reinforcement Learning**: Applying RL techniques to sequential decision-making problems 
+- **Reinforcement Learning**: Exploring RL techniques to sequential decision-making problems (e.g. Combinatorial Optimization)
 
 ## Current Projects
 
