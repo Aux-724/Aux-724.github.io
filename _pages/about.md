@@ -11,10 +11,8 @@ Welcome to my personal academic website. I am currently pursuing a Master of Phi
 
 ## Research Interests
 ------
-- Graph Neural Networks
-- Learning to Optimize
 - Dynamic Programming & Reinforcement Learning
-
+- Learning to Optimize
 
 ## Education
 ------
@@ -29,4 +27,3 @@ Welcome to my personal academic website. I am currently pursuing a Master of Phi
 ## Contact
 ------
 - **Email**: yidongluo@link.cuhk.edu.cn
-

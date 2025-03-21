@@ -7,14 +7,14 @@ author_profile: true
 
 ## Research Interests
 
-My research focuses on the intersection of optimization methods and machine learning, with a particular emphasis on:
+My research focuses on optimization methods and machine learning, with a particular emphasis on:
 
-- **Graph Neural Networks**: Exploring the capabilities of GNNs for solving complex optimization problems
 - **Learning to Optimize**: Developing machine learning approaches to improve optimization problem solving
+- **Dynamic Programming & Reinforcement Learning**: Applying RL techniques to sequential decision-making problems 
 
 ## Current Projects
 
-I am currently working with Prof. Tianshu Yu at the School of Data Science, The Chinese University of Hong Kong (Shenzhen) on several projects related to graph neural networks and learning-based optimization methods.
+I am currently working with Prof. Tianshu Yu at the School of Data Science, The Chinese University of Hong Kong (Shenzhen) on several projects related to learning-based optimization methods.
 
 ## Skills & Tools
 
