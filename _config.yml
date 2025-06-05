@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yidong Luo"
   pronouns         : # example: "she/her"  
-  bio              : "MPhil Student in Data Science at CUHKSZ"
+  bio              : "MPhil Student in Data Science at CUHK-SZ"
   location         : "Shenzhen, China"
-  employer         : "The Chinese University of Hong Kong, Shenzhen"
+  employer         : "CUHK-SZ"
   uri              : # URL
   email            : "yidongluo@link.cuhk.edu.cn" 
 
@@ -72,7 +72,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : https://www.zhihu.com/people/lyd-92-81
+  zhihu            : "lyd-92-81"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
