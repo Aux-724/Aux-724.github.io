@@ -11,6 +11,7 @@ My research focuses on optimization methods and machine learning, with a particu
 
 - **Learning to Optimize**: Developing machine learning approaches to improve optimization problem solving
 - **LLMs for Optimization**: Investigating how large language models can enhance and solve complex optimization problems
+- **Bayesian Optimization for Combinatorial Optimization Solver Configuration**: Leveraging Bayesian optimization techniques to automatically tune and configure parameters of combinatorial optimization solvers, enhancing their performance across diverse problem instances
 - **Reinforcement Learning**: Exploring RL techniques to sequential decision-making problems (e.g. Combinatorial Optimization)
 
 ## Current Projects

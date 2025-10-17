@@ -13,17 +13,13 @@ Welcome to my personal academic website. I am currently pursuing a Master of Phi
 
 - Learning to Optimize
 - LLMs for Optimization
+- Bayesian Optimization
 
 
 ## Education
 
 - **MPhil in Data Science**, The Chinese University of Hong Kong, Shenzhen (Expected 2026)
 - **BSc in Applied Psychology**, The Chinese University of Hong Kong, Shenzhen (2024)
-
-## Skills
-
-- **Programming**: Python, R, MATLAB, SPSS
-- **Tools**: CVXPY, Gurobi
 
 ## Contact
 
